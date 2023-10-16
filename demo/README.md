@@ -51,3 +51,5 @@
 <p>Para renderizar porciones de código html más complejas en el foreach, podemos utilizar la siguiente sintaxis:</p>
 
 ![sintaxisPhp](https://github.com/jacquelineleone/php/assets/98959433/88e7b40f-07b7-4753-a5a9-dc6afa571c32)
+
+<p>Agregado para prueba del test.</p>
